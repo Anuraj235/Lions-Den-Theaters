@@ -64,14 +64,7 @@ Edit
 cd Selu383.SP25.P03.Web
 npm install
 npm run dev
-📌 Authors
-Anuraj Pant (Lead Frontend Developer)
 
-Niraj Bhatta (Backend & Admin Logic)
-
-Ajyol Dhamala (API Integrations)
-
-Subin Bista (Mobile Integration)
 
 📄 License
 This project is for academic purposes under Southeastern Louisiana University. All rights reserved to Team Code 8848.
